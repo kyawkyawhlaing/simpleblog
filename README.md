@@ -12,7 +12,7 @@
     
 - add or generate key to dot env file **"php artisan key:generate"** in ur terminal where project folder exists
     
-- make Migration
+- make Migration && run
 
 - register and login then create articles
 
