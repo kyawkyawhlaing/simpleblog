@@ -10,7 +10,7 @@
 
 - Define database Credential in dot env file
     
-- add or generate key to dot env file **"php artisan key:generate"** in ur terminal where project folder exists
+- add or generate key to dot env file **`php artisan key:generate`** in ur terminal where project folder exists
     
 - make Migration && run
 
