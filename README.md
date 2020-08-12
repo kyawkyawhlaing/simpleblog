@@ -1,5 +1,7 @@
 # Prerequisites
 
+- git clone `<project>`
+
 - need to connect to the internet cuz of CDN for web design
 
 - composer install   
@@ -10,9 +12,11 @@
 
 - Define database Credential in dot env file
     
-- add or generate key to dot env file **`php artisan key:generate`** in ur terminal where project folder exists
+- add or generate key to dot env file **`php artisan key:generate`** (Except: If app_key already exist,no need to generate)
     
 - make Migration && run
+
+- run Migration
 
 - register and login then create articles
 
