@@ -1,6 +1,8 @@
 # Prerequisites
 
-- git clone `<project>`
+- install `git scm` && `composer(PHP  dependency package manager)`
+
+- git clone `<project>` 
 
 - need to connect to the internet cuz of CDN for web design
 
